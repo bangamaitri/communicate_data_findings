@@ -1,5 +1,5 @@
-# (Flights Data Exploratory and Explanatory Analysis)
-## by (Maitri Banga)
+# Flights Data Exploratory and Explanatory Analysis
+## by Maitri Banga
 
 
 ## Dataset
